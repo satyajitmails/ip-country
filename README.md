@@ -8,6 +8,6 @@ Reponse:
 curl https://ip-country.zeroone.workers.dev
 
 {
-  "ip": "122.171.57.61",
+  "ip": "*.*.*.61", //Masked ip
   "country": "IN"
 }
